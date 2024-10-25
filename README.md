@@ -2,7 +2,7 @@
 
 If you don’t know, a raffle is a gambling competition where people buy numbered tickets for a chance of winning a prize. Barb wants to raffle some items for charity and sell tickets. While Barb could use an online number generator, she wants to try learning to create her own assembly code for the prize draw.
 
-## Your job is to create Barb’s random number algorithm that fulfils the following requirements:
+## The job is to create Barb’s random number algorithm that fulfils the following requirements:
 - The algorithm needs to generate six, two-digit numbers between 01 to 59 (for example: 30, 50, 12, 45, 07, 81).
   
 - For each of the two-digit numbers, the most significant digit should be displayed on Port A in binary, the least significant bit should be displayed on Port B.
